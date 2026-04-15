@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 30 days and a state-wide market scope. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Georgia, US",
+  "export_job_id": "cbbb11b5-3256-4f36-b0a9-f3580c5c0f08",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 928411,
+  "location_name": "Georgia",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-georgia-us-sample-928411",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/928411/beamstation_928411_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 9.0,
+  "sample_records": 126,
+  "sample_sha256": "f900009e300efb11ca359c165d1033fbd4b9eaa620a92738223022b849455726",
+  "sample_size_bytes": 499441,
+  "total_records": 1400,
+  "updated_at": "2026-04-08T02:46:31.071547+00:00"
+}
