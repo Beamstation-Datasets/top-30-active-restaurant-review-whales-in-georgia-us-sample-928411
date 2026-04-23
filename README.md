@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Georgia, US
 
-> Free BeamStation sample export with 126 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `928411` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 1,260 records |
-| Free sample size | 126 records (10.0%) |
-| Last export | 2026-04-15T07:58:09.055788+00:00 |
+| Full dataset size | 534 records |
+| Free sample size | 53 records (9.93%) |
+| Last export | 2026-04-22T14:27:16.629884+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-georgia-us-sample-928411/releases/download/sample-latest/beamstation_928411_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
