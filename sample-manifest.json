@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8d174a33-c28f-4139-8235-c25279f47b9d",
+  "export_job_id": "3dae3c2b-d27d-49ca-8703-04b7a6837cde",
   "id_short": 928411,
-  "published_at": "2026-04-23T07:16:35Z",
+  "published_at": "2026-04-29T19:51:12Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-georgia-us-sample-928411",
   "sample_asset_name": "beamstation_928411_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/928411/beamstation_928411_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 53,
-  "sample_sha256": "55c340e7c0f4e049a4f070ecc59a0607bb2de0c3eb399e059acb4b2cde664e59",
-  "sample_size_bytes": 222662,
-  "total_records": 534
+  "sample_records": 41,
+  "sample_sha256": "fbbafbefd44699575a189f3c391ca069718f9be2b07b8536e57dd3c9e9bf7f9b",
+  "sample_size_bytes": 186210,
+  "total_records": 411
 }
